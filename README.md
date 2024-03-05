@@ -1,3 +1,5 @@
+> Deploys Git LFS to CloudFlare Pages 
+
 # Git LFS S3 Proxy
 
 This [Cloudflare Pages](https://pages.cloudflare.com/) site acts as a [Git LFS](https://git-lfs.com/) server backed by any S3-compatible service.
