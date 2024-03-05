@@ -4,5 +4,8 @@
   "private": true,
   "dependencies": {
     "aws4fetch": "^1.0.17"
+  },
+  "scripts": {
+    "build": "npm ci"
   }
 }
